@@ -13,6 +13,7 @@ Installation
 That service will make sure the database file is created and the database schema is uploaded to the database.
 
 ::
+
 	http://host/Setup/uninstall
 	http://host/Setup/install
 
