@@ -26,3 +26,26 @@ To-Do
 - Add a validator class to help with form validations
 - Create a better templating system to help with view rendering
 - Pretty much throw the whole thing away and start again with a decent framework like Laravel or CodeIgniter.
+
+Snapshots
+---------
+
+.. image:: https://s17.postimg.org/5mp2663e7/contacts.png
+   :width: 30%
+   :target: https://s17.postimg.org/5mp2663e7/contacts.png
+
+.. image:: https://s17.postimg.org/tqftujlvz/dashboard.png
+   :width: 30%
+   :target: https://s17.postimg.org/tqftujlvz/dashboard.png
+
+.. image:: https://s17.postimg.org/v5hejahu7/login.png
+   :width: 30%
+   :target: https://s17.postimg.org/v5hejahu7/login.png
+
+.. image:: https://s17.postimg.org/4x69txd67/signup.png
+   :width: 30%
+   :target: https://s17.postimg.org/4x69txd67/signup.png
+   
+.. image:: https://s17.postimg.org/usq0d4mpr/users.png
+   :width: 30%
+   :target: https://s17.postimg.org/usq0d4mpr/users.png
